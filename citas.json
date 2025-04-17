@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Firulais",
+    "edad": 3,
+    "tipo": "Labrador",
+    "color": "cafe",
+    "enfermedad": "Ninguna"
+  },
+  {
+    "nombre": "doggo",
+    "edad": "5",
+    "tipo": "perro",
+    "color": "cafe",
+    "enfermedad": "sano"
+  },
+  {
+    "nombre": "doggo2",
+    "edad": "10",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "sano"
+  },
+  {
+    "nombre": "doggo",
+    "edad": "5",
+    "tipo": "perro",
+    "color": "cafe",
+    "enfermedad": "sano"
+  }
+]

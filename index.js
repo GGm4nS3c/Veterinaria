@@ -6,8 +6,6 @@ const args = process.argv.slice(2);
 const operacion = args[0];
 
 
-
-
 console.log( "Se esta realizando la operacion: ", operacion);
 
 if (operacion === "registrar") {
